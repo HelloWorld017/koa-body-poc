@@ -1,0 +1,25 @@
+{
+  "name": "koa-body-poc",
+  "version": "1.0.0",
+  "description": "PoC of koa-body#75",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/koa-body-poc.git"
+  },
+  "author": "Khinenw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/koa-body-poc/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/koa-body-poc#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.3.0"
+  }
+}
